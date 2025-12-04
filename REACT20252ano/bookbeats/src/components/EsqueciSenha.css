@@ -1,0 +1,13 @@
+.esqueci-senha{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.text5{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: #D5C3E4;
+}

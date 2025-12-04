@@ -1,0 +1,31 @@
+.page-login{
+    width: 100vw;
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.form-login{
+    background: #2D1E61;
+    background: linear-gradient(180deg,rgba(45, 30, 97, 1) 52%, rgba(86, 25, 73, 1) 100%);
+    border: solid 2px red;
+
+    width: 400px; /* largura e altura do iphone 16 */
+    height: 956px;
+
+
+}
+
+.group-one{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+
+    padding-top: 100px;
+    padding-inline: 35px;
+}

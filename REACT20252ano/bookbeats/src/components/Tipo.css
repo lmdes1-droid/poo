@@ -1,0 +1,12 @@
+.tipo{
+    display: flex;
+    justify-content: center;
+
+   
+    font-family: Arial, Helvetica, sans-serif;
+    color: #E1C8FF;
+
+    font-size: 62px;
+    font-weight: 900;
+
+}

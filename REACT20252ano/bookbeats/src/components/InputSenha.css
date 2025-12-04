@@ -1,0 +1,33 @@
+.input-senha{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.text2{
+    color: #E1D2F3;
+    font-weight: 300;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+
+.botao{
+    background-color: #8b42ca;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+
+    border-radius: 10px;
+    width: 324px;
+    height: 61px;
+    padding-inline: 10px;
+}
+
+.img2{
+    height: 30px;
+    width: 30px;
+}

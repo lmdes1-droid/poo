@@ -1,0 +1,10 @@
+.Botao-vazado{
+    border: solid 1px;
+
+    color: rgb(170, 170, 170);
+    font-family: sans-serif;
+
+    padding: 10px 20px; /*encima e embaixo fica 10px de padding,
+    já dos lados fica 20px. Lek disse q esse tamanho eh padrão dos botões*/
+    letter-spacing: 1px;
+}

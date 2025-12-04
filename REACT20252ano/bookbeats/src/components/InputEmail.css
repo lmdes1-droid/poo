@@ -1,0 +1,33 @@
+.input-email{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.text1{
+    color: #E1D2F3;
+    font-weight: 300;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+
+.botao{
+    background-color: #7a38b4;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+
+    border-radius: 10px;
+    width: 324px;
+    height: 61px;
+    padding-inline: 10px;
+}
+
+.img1{
+    height: 40px;
+    width: 40px;
+}
