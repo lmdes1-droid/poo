@@ -1,0 +1,14 @@
+.frase{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 360px;
+}
+
+
+.text9{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    color: #D5C3E4;
+}

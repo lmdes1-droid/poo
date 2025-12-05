@@ -6,6 +6,8 @@ import InputEntrar from '../components/InputEntrar.jsx';
 import EntrarGoogle from '../components/EntrarGoogle.jsx';
 import EntrarSpotify from '../components/EntrarSpotify.jsx';
 import EsqueciSenha from '../components/EsqueciSenha.jsx';
+import Cadastro from '../components/Cadastro.jsx';
+import Frase from '../components/Frase.jsx';
 
 function PageLogin(){
     return(
@@ -19,6 +21,8 @@ function PageLogin(){
                     <EntrarGoogle/>
                     <EntrarSpotify/>
                     <EsqueciSenha/>
+                    <Cadastro/>
+                    <Frase/>
                 </div>
             </div>
         </div>

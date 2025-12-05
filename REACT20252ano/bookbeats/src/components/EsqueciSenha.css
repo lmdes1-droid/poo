@@ -3,11 +3,13 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    width: 100%;
 }
 
 
 .text5{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 25px;
     color: #D5C3E4;
+    text-decoration: underline;
 }

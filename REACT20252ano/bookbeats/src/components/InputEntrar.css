@@ -5,7 +5,7 @@
     align-items: center;
     gap: 10px;
 
-    background-color: #5C0AA3;
+    background-color: #6617ac;
     border-radius: 10px;
     width: 324px;
     height: 61px;
@@ -13,7 +13,8 @@
 }
 
 .text3{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 30px;
-    color: #caccff;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 32px;
+    color: #DCDDF9;
+    font-weight: 600;
 }
